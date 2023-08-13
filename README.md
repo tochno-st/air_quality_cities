@@ -16,7 +16,7 @@ Dataset is available for work in CSV format (encoding: «UTF-8», column separat
 ### Links
 
 - [Download data](https://github.com/tochno-st/air_quality_cities/blob/main/data/processed/air_cities_100_v20230812.zip?raw=true)
-- [Codebook]()
+- [Codebook](https://github.com/tochno-st/air_quality_cities/blob/main/meta/description_air_cities_100_v1.0.pdf?raw=true)
 
 ### License
 
