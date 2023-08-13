@@ -33,4 +33,4 @@ This work is licensed under a
 
 ### Citation
 
-> Air pollution in Russian cities since 2007 // Rosgidromet (Russia); data-processing: **«To Be Precise»**, 2023. URL: https://tochno.st/ 
+> Air pollution in Russian cities since 2007 // Roshydromet (Russia); data-processing: **«To Be Precise»**, 2023. URL: https://tochno.st/ 
