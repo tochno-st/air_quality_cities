@@ -11,7 +11,7 @@
 ### Ссылки
 
 - [Скачать данные](https://github.com/tochno-st/air_quality_cities/blob/main/data/processed/air_cities_100_v20230812.zip?raw=true)
-- [Кодбук]()
+- [Кодбук](https://github.com/tochno-st/air_quality_cities/blob/main/meta/description_air_cities_100_v1.0.pdf?raw=true)
 
 ### Лицензия
 
