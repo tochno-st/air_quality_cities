@@ -16,7 +16,6 @@ Dataset is available for work in CSV format (encoding: «UTF-8», column separat
 ### Links
 
 - [Download data]()
-- [Source reports from which the data was collected]()
 - [Codebook]()
 
 ### License
