@@ -10,8 +10,7 @@
 
 ### Ссылки
 
-- [Скачать данные]()
-- [Исходные отчеты, из которых собраны данные]()
+- [Скачать данные](https://github.com/tochno-st/air_quality_cities/blob/main/data/processed/air_cities_100_v20230812.zip?raw=true)
 - [Кодбук]()
 
 ### Лицензия
