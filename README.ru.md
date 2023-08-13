@@ -1,6 +1,6 @@
 ## Состояние загрязнения атмосферы в городах России с 2007 года
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/tochno-st/.github/edit/main/profile/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/tochno-st/.github/edit/main/profile/README.ru.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/tochno-st/air_quality_cities/blob/main/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/tochno-st/air_quality_cities/blob/main/README.ru.md)
 
 Данные о **качестве атмосферного воздуха в городах и населенных пунктах России**, охваченных сетью государственного мониторинга атмосферного воздуха. В 2021 году Росгидромет проводил регулярные наблюдения на 620 пунктах в 221 населенном пункте.
 
