@@ -1,6 +1,6 @@
 ## Air pollution in Russian cities since 2007
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/tochno-st/.github/edit/main/profile/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/tochno-st/.github/edit/main/profile/README.ru.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/tochno-st/air_quality_cities/blob/main/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/tochno-st/air_quality_cities/blob/main/README.ru.md)
 
 Data on **air quality in Russian cities and settlements** covered by the state air monitoring 
 network. In 2021, Roshydromet conducted regular observations at 620 stations in 221 cities.
